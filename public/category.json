@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "category_logo": "../src/Component/icons/chip.png",
+        "category_name": "Technology",
+        "jobs_available": 100
+    },
+    {
+        "id": 2,
+        "category_logo": "../src/Component/icons/accounts.png",
+        "category_name": "Finance",
+        "jobs_available": 75
+    },
+    {
+        "id": 3,
+        "category_logo": "../src/Component/icons/marketing.png",
+        "category_name": "Marketing",
+        "jobs_available": 50
+    },
+    {
+        "id": 4,
+        "category_logo": "../src/Component/icons/creative.png",
+        "category_name": "Creative Design",
+        "jobs_available": 120
+    }
+]
